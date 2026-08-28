@@ -84,7 +84,7 @@ margin-right: 30px;
 }
 
 
-.navbar, .banner{
+.navbar, .banner , .fotter-titel{
     max-width: 1440px;
     margin: 0 auto;
 }
@@ -129,7 +129,7 @@ margin-right: 30px;
 
 
 
-#qucik-lixt{
+#qucik-list{
     font-weight: 500;
 
 }
@@ -234,7 +234,20 @@ font-weight:700 ;
     filter: grayscale(100%);
 }
 
+/* fotter style */
 
+
+
+.fotter-titel{
+    
+    margin-top: 131px;
+    margin-bottom: 215px;
+}
+
+.footer-description{
+    text-align: center;
+    padding: 10px 41px;
+}
 
 /* responsiv media query */
 
